@@ -1,15 +1,9 @@
 {
-  "name": "comision-55245",
-  "version": "1.0.0",
-  "description": "",
-  "main": "ejercicio.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "luxon": "^3.3.0",
-    "sweetalert2": "^11.7.12"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "vite"
   }
 }
